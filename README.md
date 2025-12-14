@@ -3,7 +3,7 @@ Welcome to my cybersecurity portofolio !
 
 This repository contains my completed certifications and writeups from various cybersecurity challenges and learning platforms. It showcases my hands-on practice in offensice and defensive security, penetration testing, and other core cybersecurity skills.
 
-## 📂~Repository structure
+## Repository structure
 ```
 portofolio_cyber/
 │
@@ -26,7 +26,7 @@ portofolio_cyber/
 │
 └── README.md
 ```
-## 📜~Certifications
+## Certifications
 This section contains courses descriptions for the certifications i completed on TryHackMe.
 
 For privacy reasons, i do not upload the certificates themselves, but each files includes:
@@ -35,7 +35,7 @@ For privacy reasons, i do not upload the certificates themselves, but each files
 - The tools i practiced
 
 
-## 📝~Writeups
+## Writeups
 This section contains detailed writeups from challenges, Capture the flags, or wargames i have completed.
 - **TryHackMe:** CTF challenges, labs and exercices.
 - **OverTheWire:** List of wargames designed to teach the fundamentals of Linux, shell navigation and basic security concepts.
